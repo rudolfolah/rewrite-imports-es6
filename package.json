@@ -1,0 +1,9 @@
+{
+  "name": "rewrite-imports-es6",
+  "version": "1.0.0",
+  "dependencies": {
+    "@babel/parser": "~7.23.0",
+    "glob": "~10.3.10",
+    "recast": "~0.23.4"
+  }
+}
