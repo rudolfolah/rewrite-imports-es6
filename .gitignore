@@ -2,3 +2,4 @@
 *.iml
 node_modules
 example/index-updated.jsx
+.DS_Store
